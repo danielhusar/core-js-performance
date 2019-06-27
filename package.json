@@ -83,7 +83,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://rickharrison.github.io/intercom-performance",
+  "homepage": "https://core-js-preformance.netlify.com",
   "jest": {
     "collectCoverageFrom": [
       "src/**/*.{js,jsx,ts,tsx}",
