@@ -1,4 +1,3 @@
-import 'core-js-compiled';
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
